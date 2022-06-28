@@ -1,6 +1,6 @@
 console.log("Client side Javascript");
 
-const url = 'http://localhost:3000/weather?address='
+const url = '/weather?address='
 
 
 const weatherform =  document.querySelector('form');
